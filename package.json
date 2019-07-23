@@ -1,6 +1,7 @@
 {
   "name": "jigsaw-puzzle",
   "version": "0.0.0",
+  "author": "Omar Dulaimi",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
